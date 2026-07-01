@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sanyuktaraut09/Word2Vec-NLP-Project/blob/main/NLP_PROJECT.ipynb)
 # Natural Language Processing using Word2Vec
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
